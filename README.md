@@ -9,3 +9,4 @@ A list of papers I like.
 | Teaching Language Models to Think in Code | 2605.07237 | [https://arxiv.org/pdf/2605.07237](https://arxiv.org/pdf/2605.07237) |
 | What if AI systems weren't chatbots? | 2605.07896 | [https://arxiv.org/pdf/2605.07896](https://arxiv.org/pdf/2605.07896) |
 | MultiHashFormer: Hash-based Generative Language Models | 2606.28057 | [https://arxiv.org/pdf/2606.28057](https://arxiv.org/pdf/2606.28057) |
+| Dockerless: Environment-Free Program Verifier for Coding Agents | 2606.28436 | [https://arxiv.org/pdf/2606.28436](https://arxiv.org/pdf/2606.28436)
