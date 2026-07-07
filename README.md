@@ -11,3 +11,4 @@ A list of papers I like.
 | MultiHashFormer: Hash-based Generative Language Models | 2606.28057 | [https://arxiv.org/pdf/2606.28057](https://arxiv.org/pdf/2606.28057) |
 | Dockerless: Environment-Free Program Verifier for Coding Agents | 2606.28436 | [https://arxiv.org/pdf/2606.28436](https://arxiv.org/pdf/2606.28436) |
 | Program-as-Weights: A Programming Paradigm for Fuzzy Functions | 2607.02512 | [https://arxiv.org/pdf/2607.02512](https://arxiv.org/pdf/2607.02512) |
+| dOPSD: On-Policy Self-Distillation for Diffusion Language Models | 2607.04428 | [https://arxiv.org/pdf/2607.04428](https://arxiv.org/pdf/2607.04428) |
